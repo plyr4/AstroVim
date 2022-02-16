@@ -21,7 +21,7 @@ local others = {
   TelescopePromptCounter = { fg = C.grey_1 },
   TelescopePromptPrefix = { fg = C.blue },
   TelescopePreviewLine = { fg = C.yellow_2 },
-  TelescopePreviewMatch = { bg = C.yellow, bg = C.yellow },
+  TelescopePreviewMatch = { fg = C.yellow },
   TelescopePreviewPipe = { fg = C.yellow },
   TelescopePreviewCharDev = { fg = C.yellow },
   TelescopePreviewDirectory = { fg = C.blue },
